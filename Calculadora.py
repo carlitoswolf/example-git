@@ -10,6 +10,5 @@ else:
     print("\n")
     print("N1 + N2 = ",number_one+number_two)
     print("N1 - N2 = ",number_one-number_two)
-    print("N1 * N2 = ",number_one*number_two)
-    print("N1 / N2 = ",number_one/number_two)
-
+    print("La multiplicación de N1 * N2 = ",number_one*number_two)
+    print("La division de N1 / N2 = ",number_one/number_two)
