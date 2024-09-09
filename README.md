@@ -1,1 +1,1 @@
-# Hello to my exameple-GIT
+# Hello to my example-GIT
